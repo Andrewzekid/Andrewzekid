@@ -1,8 +1,11 @@
 ### Hi there, I'm Andrew 👋
 
 🤖 AI and Programming Enthusiast
+
 🌐 Proficient in Web Design and Backend Design
+
 📊 Competent in Data Science and Machine Learning
+
 💻 Currently Creating a Ecommerce Bookstore
 
 <!-- Github Stats -->
